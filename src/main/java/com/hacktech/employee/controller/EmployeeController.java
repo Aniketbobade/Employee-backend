@@ -20,7 +20,7 @@ import org.springframework.web.service.annotation.PutExchange;
 import com.hacktech.employee.model.Employee;
 import com.hacktech.employee.services.EmployeeService;
 
-@CrossOrigin(origins = "https://adorable-blancmange-13043a.netlify.app/")
+@CrossOrigin(origins = "https://calm-narwhal-123c10.netlify.app/")
 @RestController
 @RequestMapping("/api/v1")
 public class EmployeeController {
